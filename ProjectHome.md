@@ -1,0 +1,1 @@
+CoursePress är en av Linnéuniversitetets lärplattformar. CoursePress används främst av IT-utbildningarna i Kalmar.
